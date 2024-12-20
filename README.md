@@ -1,13 +1,16 @@
 Chanel Advent Calendar Redesign
 **Overview**
+
 This repository is dedicated to the redesign and development of Chanel's Advent Calendar, incorporating customer feedback to enhance satisfaction while optimizing production costs.
 
 **Background**
+
 Our previous advent calendar received significant negative feedback, highlighting the need for a more customer-focused approach. As we prepare to launch a new version, our primary goals are:
 Customer Satisfaction: Actively addressing past concerns and improving the product experience.
 Cost Optimization: Striking a balance between quality and affordability to ensure the calendar remains a desirable and accessible product.
 
 **Objective**
+
 Scenario 1: Individual Calendar Cost Minimization
 The first objective is to identify the lowest possible cost for producing a single advent calendar, assuming unlimited products available.
 Scenario 2: Bulk Production Cost Minimization
