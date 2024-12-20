@@ -19,12 +19,10 @@ The second objective is to determine the minimum cost per calendar when producin
 
 **Constraints**
 1. Box Allocation Requirements
-
-  Each of the 31 boxes in the advent calendar must be assigned exactly one product.
+Each of the 31 boxes in the advent calendar must be assigned exactly one product.
 
 3. Product Category Distribution Rules
-
-  Maximum of 3 identical products from large categories (Eyes, Lips, Fragrance)
+Maximum of 3 identical products from large categories (Eyes, Lips, Fragrance)
 
   No product duplication allowed within small categories
 
