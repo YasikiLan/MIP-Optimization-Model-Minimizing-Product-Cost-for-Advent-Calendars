@@ -30,11 +30,11 @@ The second objective is to determine the minimum cost per calendar when producin
 
 4. Niche Product Marketing Strategy
 
-  To introduce customers to new and unique products:
-  Minimum: 1 niche product per calendar
-  Maximum: 3 niche products per calendar
+    To introduce customers to new and unique products:
+    Minimum: 1 niche product per calendar
+    Maximum: 3 niche products per calendar
 
 6. Inventory Management Constraints (This Constraint Only Apply for Scenario 2)
 
-  Each product type has a fixed inventory of 70 units.
-  Target allocation volume: 100 advent calendars.
+    Each product type has a fixed inventory of 70 units.
+    Target allocation volume: 100 advent calendars.
