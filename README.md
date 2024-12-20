@@ -1,4 +1,5 @@
-Chanel Advent Calendar Redesign
+# Chanel Advent Calendar Redesign
+
 **Overview**
 
 This repository is dedicated to the redesign and development of Chanel's Advent Calendar, incorporating customer feedback to enhance satisfaction while optimizing production costs.
