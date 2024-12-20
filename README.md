@@ -19,14 +19,22 @@ The second objective is to determine the minimum cost per calendar when producin
 
 **Constraints**
 1. Box Allocation Requirements
+
 Each of the 31 boxes in the advent calendar must be assigned exactly one product.
-2. Product Category Distribution Rules
+
+3. Product Category Distribution Rules
+
 Maximum of 3 identical products from large categories (Eyes, Lips, Fragrance)
+
 No product duplication allowed within small categories
-3. Niche Product Marketing Strategy
+
+4. Niche Product Marketing Strategy
+
 To introduce customers to new and unique products:
 Minimum: 1 niche product per calendar
 Maximum: 3 niche products per calendar
-4. Inventory Management Constraints (This Constraint Only Apply for Scenario 2)
+
+6. Inventory Management Constraints (This Constraint Only Apply for Scenario 2)
+
 Each product type has a fixed inventory of 70 units.
 Target allocation volume: 100 advent calendars.
